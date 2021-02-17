@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Welcome to My Profile! 👋 
-<!-- ![https://t.me/araynvikash](https://img.shields.io/badge/telegram-virenpatil-blue) -->
+<!-- ![https://t.me](https://img.shields.io/badge/telegram-virenpatil-blue) -->
  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/virenpatil/)
 
 
