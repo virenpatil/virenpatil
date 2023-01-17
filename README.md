@@ -27,7 +27,7 @@ Q | A
 **Editor**  | `Visual Studio Code`
 **Platforms I develop for** | `Web, Mobile, CLI`
 **Languages I know**  | ` HTML , CSS , JavaScript, React, Redux`
-**Languages I learning** | `Go`
+**Languages I learning** | `Python, Vue`
 
 
 
